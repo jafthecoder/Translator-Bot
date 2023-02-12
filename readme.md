@@ -1,0 +1,1 @@
+This bot helps you translate texts and words to many languages. Bot crated with PyTelegramBotApi package and Python programming language
